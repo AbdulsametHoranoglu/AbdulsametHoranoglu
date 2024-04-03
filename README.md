@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fin%2Fsamet-horano%25C4%259Flu-25b695209&psig=AOvVaw2qM8xHkNcP4EXg17jNoexj&ust=1712253946767000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNibv5PRpoUDFQAAAAAdAAAAABAE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.abakuskitap.com%2Fblog%2Ficerik%2Fprogramlama-dili-ile-betik-dili-arasinda-ne-fark-var&psig=AOvVaw3_lxyKUo6xp8Mn9rRn5uK2&ust=1712254157126000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDPhfrRpoUDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Samet Horanoğlu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
